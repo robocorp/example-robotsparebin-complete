@@ -7,7 +7,7 @@
 
 *** Settings ***
 Documentation     Robot to enter weekly sales data into the RobotSpareBin Industries Intranet.
-Library           RPA.Browser
+Library           RPA.Browser.Selenium
 Library           RPA.Excel.Files
 Library           RPA.FileSystem
 Library           RPA.HTTP
